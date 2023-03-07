@@ -1,5 +1,6 @@
 # Mapping-spatial-microclimate-patterns 
 ## project files for mapping temperature offset in forests based on LiDAR data, temperature records, and boosted regression trees in the R version 4.2.2
+#### The project is based on a scientific manuscript aspiring to be published.  
 
 ## included files:
 ### input and uutput data from the project:
