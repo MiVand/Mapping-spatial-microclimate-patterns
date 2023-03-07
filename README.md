@@ -3,7 +3,7 @@
 #### The project is based on a scientific manuscript aspiring to be published.  
 
 ## included files:
-### input and uutput data from the project:
+### input and output data from the project:
 
 #### "disturbance_year_1986-2020_epsg25832_cropped.tif"
 ##### - map containing the year of the most severe forest disturbance from 1986 until 2020
